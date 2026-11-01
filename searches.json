@@ -1,0 +1,6 @@
+[
+  {"query": "iphone 12 cassé", "max_price": 80},
+  {"query": "iphone 12 defect", "max_price": 80},
+  {"query": "iphone 11 cassé", "max_price": 60},
+  {"query": "iphone for parts", "max_price": 50}
+]
